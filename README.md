@@ -33,3 +33,5 @@ Ela é composta das seguintes variáveis
 
 **Para mais detalhes e discussão sobre o assunto acesse o capítulo de e-book: "Um modelo de Inteligência Artificial para auxílio na
 decisão de alta hospitalar"** disponível aqui: https://editorapantanal.com.br/ebooks-capitulo.php?ebook_id=topicos-nas-ciencias-da-saude-volume-ix&ebook_ano=2022&ebook_caps=1&ebook_capitulo=Cap13&ebook_org=1
+
+**Acesse este vídeo-tutorial pelo Youtube:** https://www.youtube.com/watch?v=cTCoBIBPJSc
